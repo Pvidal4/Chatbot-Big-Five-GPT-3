@@ -1,0 +1,1 @@
+Aquí van el export .txt de WhatsApp
