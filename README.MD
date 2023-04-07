@@ -76,18 +76,22 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 > git clone https://github.com/Pvidal4/Chatbot-Big-Five-GPT-3.git
 ```
 
-Ingresa tu API Key de OpenAI en **interfaz-gpt.py**
-```
-# Key (Introduce tu GPT API Key)
-key = "[introduce tu api key aquí]"
-```
-
 ### Pre-requisitos 📋
 
 ```
 > pip install --upgrade pip
 > pip install -r requirements.txt
 ```
+
+Ingresa tu API Key de OpenAI en **interfaz-gpt.py**
+```
+# Key (Introduce tu GPT API Key)
+key = "[introduce tu api key aquí]"
+```
+
+Ingresa tu Export de WhatsApp en la carpeta **/chats**
+- **Español** > Chat de WhatsApp con [nombre]
+- **Inglés** > WhatsApp Chat with [nombre]
 
 ## Despliegue 📦
 
